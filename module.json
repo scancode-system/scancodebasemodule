@@ -1,0 +1,13 @@
+{
+    "name": "ScancodeBase",
+    "alias": "scancodebase",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ScancodeBase\\Providers\\ScancodeBaseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
