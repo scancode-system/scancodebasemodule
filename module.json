@@ -9,5 +9,10 @@
     ],
     "aliases": {},
     "files": [],
-    "requires": []
+    "requires": [
+        "order",
+        "printauto",
+        "event",
+        "dashboardportal"
+    ]
 }

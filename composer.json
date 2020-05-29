@@ -27,6 +27,7 @@
         "scancode-system/order-module":"^1.0",
         "scancode-system/print-auto-module":"^1.0",
         "scancode-system/event-module":"^1.0",
-        "scancode-system/dashboard-portal-module":"^1.0"
+        "scancode-system/dashboard-portal-module":"^1.0",
+        "scancode-system/variation-module":"^1.0"
     }
 }
